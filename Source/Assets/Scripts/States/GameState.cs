@@ -1,0 +1,1 @@
+﻿public enum GameState { Won, Lost, Ongoing }
